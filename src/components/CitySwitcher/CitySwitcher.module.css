@@ -1,0 +1,31 @@
+.switcher {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.pill {
+  background: rgba(200, 149, 108, 0.04);
+  border: 1px solid rgba(200, 149, 108, 0.06);
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: 11px;
+  color: var(--text-tertiary);
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+  font-family: var(--font-stack);
+  letter-spacing: 0.03em;
+}
+
+.pill:hover {
+  border-color: rgba(200, 149, 108, 0.20);
+  color: var(--text-secondary);
+}
+
+.active {
+  background: rgba(200, 149, 108, 0.10);
+  border-color: rgba(200, 149, 108, 0.30);
+  color: var(--gold);
+}

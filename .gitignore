@@ -1,1 +1,6 @@
 .superpowers
+.vite
+dist/
+node_modules
+docs
+CLAUDE.md

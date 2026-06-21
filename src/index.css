@@ -1,0 +1,35 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #08080C;
+  --card-bg: linear-gradient(160deg, #1C1A24, #15131C);
+  --gold: #C8956C;
+  --gold-dim: rgba(200, 149, 108, 0.30);
+  --gold-glow: rgba(200, 149, 108, 0.12);
+  --gold-strong: rgba(200, 149, 108, 0.55);
+  --title-gradient: linear-gradient(90deg, #EBE5D9, #C8956C);
+  --text-primary: #EBE5D9;
+  --text-secondary: #8A8278;
+  --text-tertiary: #4A4540;
+  --divider: rgba(200, 149, 108, 0.08);
+  --font-stack: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+html, body {
+  font-family: var(--font-stack);
+  background: var(--bg);
+  color: var(--text-primary);
+  min-height: 100dvh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(200, 149, 108, 0.25);
+  color: var(--text-primary);
+}
