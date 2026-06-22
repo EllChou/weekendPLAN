@@ -89,7 +89,7 @@ const Card = forwardRef<CardHandle, Props>(function Card(
       currentAngle = targetAngle;
 
       // Burst particles halfway through the spin
-      if (i === Math.floor(FLIP_COUNT / 2)) {
+      if (i === FLIP_COUNT-1) {
         particlesRef.current?.burst();
       }
     }
