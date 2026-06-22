@@ -1,0 +1,1580 @@
+{
+  "city": "tianjin",
+  "updated": "2025-06-21",
+  "curator": "AI-curated from web research",
+  "activities": [
+    {
+      "emoji": "⛰️",
+      "title": "盘山登顶挂月峰",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "盘山",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "黄崖关长城徒步",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "长城",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "title": "海河沿线骑行看桥",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "骑行",
+        "海河"
+      ]
+    },
+    {
+      "emoji": "🚴",
+      "title": "五大道骑共享单车扫街",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "骑行",
+        "五大道"
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "title": "水上公园晨跑",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "跑步",
+        "水上公园"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "南翠屏公园爬市内小山",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "爬山",
+        "市内"
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "title": "九山顶徒步穿越",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "徒步",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "title": "八仙山自然保护区徒步",
+      "category": "户外",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "自然保护区",
+        "徒步"
+      ]
+    },
+    {
+      "emoji": "🧗",
+      "title": "盘龙大峡谷溯溪",
+      "category": "户外",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "峡谷",
+        "溯溪"
+      ]
+    },
+    {
+      "emoji": "🌅",
+      "title": "天津之眼摩天轮看日落",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "摩天轮",
+        "日落"
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "title": "东疆湾沙滩看海",
+      "category": "户外",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "沙滩",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🛶",
+      "title": "海河游船看两岸风光",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "游船",
+        "海河"
+      ]
+    },
+    {
+      "emoji": "🎣",
+      "title": "海河边钓鱼发呆",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "钓鱼",
+        "海河"
+      ]
+    },
+    {
+      "emoji": "🌸",
+      "title": "长虹公园赏桃花",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "赏花",
+        "桃花堤"
+      ]
+    },
+    {
+      "emoji": "🧘",
+      "title": "水上公园湖边瑜伽",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "瑜伽",
+        "公园"
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "title": "九龙山国家森林公园",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "森林公园",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🌾",
+      "title": "团泊湖湿地观鸟",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "湿地",
+        "观鸟"
+      ]
+    },
+    {
+      "emoji": "🛹",
+      "title": "民园广场滑板",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "滑板",
+        "民园"
+      ]
+    },
+    {
+      "emoji": "🏕️",
+      "title": "蓟县山区露营看星星",
+      "category": "户外",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "露营",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🌄",
+      "title": "梨木台风景区徒步看日出",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "日出",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🥞",
+      "title": "西北角排队吃煎饼果子",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "煎饼果子",
+        "西北角"
+      ]
+    },
+    {
+      "emoji": "🍜",
+      "title": "吃一碗地道锅巴菜",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "锅巴菜",
+        "早餐"
+      ]
+    },
+    {
+      "emoji": "🥘",
+      "title": "找一家苍蝇馆子吃八珍豆腐",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "八珍豆腐",
+        "天津菜"
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "title": "大姨捞面吃一碗地道捞面",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "捞面",
+        "网红"
+      ]
+    },
+    {
+      "emoji": "🥮",
+      "title": "耳朵眼炸糕趁热吃",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "炸糕",
+        "老字号"
+      ]
+    },
+    {
+      "emoji": "🍖",
+      "title": "一个人吃老爆三+米饭",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "老爆三",
+        "天津菜"
+      ]
+    },
+    {
+      "emoji": "🥟",
+      "title": "西湖道小吃街从头吃到尾",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "小吃街",
+        "西湖道"
+      ]
+    },
+    {
+      "emoji": "🍢",
+      "title": "西北角回民小吃街逛吃",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "清真",
+        "小吃"
+      ]
+    },
+    {
+      "emoji": "🐟",
+      "title": "吃一份罾蹦鲤鱼",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "罾蹦鲤鱼",
+        "天津菜"
+      ]
+    },
+    {
+      "emoji": "☕",
+      "title": "五大道洋楼咖啡馆探店",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "咖啡馆",
+        "五大道"
+      ]
+    },
+    {
+      "emoji": "🍗",
+      "title": "买一只小李烧鸡独享",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "烧鸡",
+        "老字号"
+      ]
+    },
+    {
+      "emoji": "🍵",
+      "title": "名流茶馆听相声喝茶",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "相声",
+        "茶馆"
+      ]
+    },
+    {
+      "emoji": "🍰",
+      "title": "意风区甜品店下午茶",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "下午茶",
+        "意风区"
+      ]
+    },
+    {
+      "emoji": "🧆",
+      "title": "老艺人餐馆吃津味菜",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "津味菜",
+        "老店"
+      ]
+    },
+    {
+      "emoji": "🍺",
+      "title": "民园西里精酿酒吧独饮",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "精酿",
+        "民园"
+      ]
+    },
+    {
+      "emoji": "🍚",
+      "title": "吃一碗天津打卤面",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "打卤面",
+        "家常"
+      ]
+    },
+    {
+      "emoji": "🍯",
+      "title": "古文化街吃熟梨糕",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "熟梨糕",
+        "古文化街"
+      ]
+    },
+    {
+      "emoji": "🥩",
+      "title": "一个人吃天津烤肉",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "烤肉",
+        "天津"
+      ]
+    },
+    {
+      "emoji": "🥟",
+      "title": "吃二嫂子煎饼果子打卡",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "煎饼果子",
+        "网红"
+      ]
+    },
+    {
+      "emoji": "🍳",
+      "title": "学做一套正宗煎饼果子",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "烹饪",
+        "煎饼果子"
+      ]
+    },
+    {
+      "emoji": "🫕",
+      "title": "吃一碗天津面茶",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "面茶",
+        "早餐"
+      ]
+    },
+    {
+      "emoji": "🧋",
+      "title": "大悦城奶茶探店",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "奶茶",
+        "大悦城"
+      ]
+    },
+    {
+      "emoji": "🦀",
+      "title": "塘沽吃海鲜大餐",
+      "category": "美食",
+      "budget": "200元+",
+      "duration": "半天",
+      "tags": [
+        "海鲜",
+        "塘沽"
+      ]
+    },
+    {
+      "emoji": "🍝",
+      "title": "天津老码头餐厅体验民国风",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "民国风",
+        "特色"
+      ]
+    },
+    {
+      "emoji": "🏮",
+      "title": "南市食品街逛吃",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "食品街",
+        "游客"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "天津博物馆看镇馆之宝",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "博物馆",
+        "必去"
+      ]
+    },
+    {
+      "emoji": "🦕",
+      "title": "天津自然博物馆看恐龙",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "自然博物馆",
+        "恐龙"
+      ]
+    },
+    {
+      "emoji": "📚",
+      "title": "滨海图书馆打卡最美图书馆",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "图书馆",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🏗️",
+      "title": "天津美术馆看当代展",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "美术馆",
+        "文化中心"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "广东会馆看戏剧博物馆",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "戏剧",
+        "古建"
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "名流茶馆听一场相声",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "相声",
+        "必体验"
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "title": "国家海洋博物馆探索",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "海洋",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "📸",
+      "title": "瓷房子拍一组奇幻照片",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "瓷房子",
+        "打卡"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "五大道历史博物馆看洋楼",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "博物馆",
+        "五大道"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "一个人看早场电影",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "电影",
+        "早场"
+      ]
+    },
+    {
+      "emoji": "📖",
+      "title": "滨海新区图书馆看书发呆",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "图书馆",
+        "阅读"
+      ]
+    },
+    {
+      "emoji": "🎤",
+      "title": "天津Livehouse看一场演出",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "Livehouse",
+        "音乐"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "周恩来邓颖超纪念馆",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "纪念馆",
+        "伟人"
+      ]
+    },
+    {
+      "emoji": "🖼️",
+      "title": "利顺德博物馆看百年饭店",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "博物馆",
+        "利顺德"
+      ]
+    },
+    {
+      "emoji": "🎹",
+      "title": "天津大剧院听一场交响乐",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "交响乐",
+        "大剧院"
+      ]
+    },
+    {
+      "emoji": "📝",
+      "title": "言几又书店泡一个下午",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "书店",
+        "阅读"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "天津美术学院看毕业展",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "毕业展",
+        "美院"
+      ]
+    },
+    {
+      "emoji": "🕌",
+      "title": "西开教堂静坐片刻",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "教堂",
+        "宁静"
+      ]
+    },
+    {
+      "emoji": "💻",
+      "title": "滨海图书馆角落写代码",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "编程",
+        "图书馆"
+      ]
+    },
+    {
+      "emoji": "📈",
+      "title": "研究一个量化交易策略",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "量化",
+        "策略"
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "title": "B站刷完一套AI课程",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "AI",
+        "网课"
+      ]
+    },
+    {
+      "emoji": "📚",
+      "title": "天津图书馆自习一天",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "图书馆",
+        "自习"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "学Figma做一套UI练习",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "设计",
+        "Figma"
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "title": "搭一个个人博客网站",
+      "category": "学习",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "博客",
+        "建站"
+      ]
+    },
+    {
+      "emoji": "📝",
+      "title": "系统整理读书笔记",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "笔记",
+        "整理"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "学用DaVinci剪视频",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "剪辑",
+        "视频"
+      ]
+    },
+    {
+      "emoji": "📊",
+      "title": "做一个个人财务仪表盘",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "财务",
+        "数据"
+      ]
+    },
+    {
+      "emoji": "🔧",
+      "title": "动手组装一个机械键盘",
+      "category": "学习",
+      "budget": "200元+",
+      "duration": "半天",
+      "tags": [
+        "键盘",
+        "DIY"
+      ]
+    },
+    {
+      "emoji": "🏺",
+      "title": "陶艺工坊做一只杯子",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "陶艺",
+        "手工"
+      ]
+    },
+    {
+      "emoji": "🕯",
+      "title": "DIY香薰蜡烛",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "蜡烛",
+        "香薰"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "Tufting戳一张地毯",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "Tufting",
+        "地毯"
+      ]
+    },
+    {
+      "emoji": "💍",
+      "title": "银饰工坊打一枚戒指",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "银饰",
+        "戒指"
+      ]
+    },
+    {
+      "emoji": "🖼️",
+      "title": "数字油画填色解压",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "油画",
+        "解压"
+      ]
+    },
+    {
+      "emoji": "🪴",
+      "title": "微景观苔藓瓶制作",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "微景观",
+        "苔藓"
+      ]
+    },
+    {
+      "emoji": "🧵",
+      "title": "杨柳青年画体验印刷一张",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "年画",
+        "非遗"
+      ]
+    },
+    {
+      "emoji": "📿",
+      "title": "串珠手链DIY",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "串珠",
+        "手链"
+      ]
+    },
+    {
+      "emoji": "🪵",
+      "title": "木工坊做一把木梳",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "木工",
+        "手作"
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "泥人张彩塑体验",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "泥人张",
+        "非遗"
+      ]
+    },
+    {
+      "emoji": "🚶",
+      "title": "五大道洋楼City Walk",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "五大道",
+        "洋楼"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "解放北路看百年金融街",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "解放北路",
+        "金融街"
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "title": "意式风情区漫步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "意风区",
+        "欧式"
+      ]
+    },
+    {
+      "emoji": "🌉",
+      "title": "海河夜游看两岸灯火",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "海河",
+        "夜景"
+      ]
+    },
+    {
+      "emoji": "🏮",
+      "title": "古文化街逛泥人张+杨柳青",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "古文化街",
+        "非遗"
+      ]
+    },
+    {
+      "emoji": "🎡",
+      "title": "天津之眼海河夜景",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "天津之眼",
+        "夜景"
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "title": "民园广场发呆看人来人往",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "民园",
+        "发呆"
+      ]
+    },
+    {
+      "emoji": "🚇",
+      "title": "随机坐地铁到没去过的站",
+      "category": "漫游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "地铁",
+        "探索"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "鼓楼老城厢逛胡同",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "鼓楼",
+        "老城"
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "title": "天津大学+南开大学散步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "大学",
+        "校园"
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "title": "滨江道步行街逛商场",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "步行街",
+        "购物"
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "title": "先农大院文艺街区",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "先农大院",
+        "文艺"
+      ]
+    },
+    {
+      "emoji": "🛄",
+      "title": "小白楼欧式风情区漫步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "小白楼",
+        "欧式"
+      ]
+    },
+    {
+      "emoji": "🛤️",
+      "title": "泰安道英式风情区散步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "泰安道",
+        "英式"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "津湾广场看海河两岸",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "津湾广场",
+        "海河"
+      ]
+    },
+    {
+      "emoji": "🛶",
+      "title": "北安桥看海河日落",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "北安桥",
+        "日落"
+      ]
+    },
+    {
+      "emoji": "🐦",
+      "title": "西沽公园发呆看花",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "公园",
+        "赏花"
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "title": "石家大院看杨柳青古镇",
+      "category": "漫游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "古镇",
+        "杨柳青"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "大悲禅院静心",
+      "category": "漫游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "寺庙",
+        "静心"
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "title": "北宁公园看致远塔",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "公园",
+        "致远塔"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "一个人包场看IMAX",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "电影",
+        "IMAX"
+      ]
+    },
+    {
+      "emoji": "💆",
+      "title": "预约一次天津推拿",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "推拿",
+        "放松"
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "名流茶馆听相声笑一下午",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "相声",
+        "必体验"
+      ]
+    },
+    {
+      "emoji": "♨️",
+      "title": "团泊湖温泉泡汤",
+      "category": "休闲",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "温泉",
+        "团泊湖"
+      ]
+    },
+    {
+      "emoji": "🎮",
+      "title": "通关一个独立游戏",
+      "category": "休闲",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "游戏",
+        "独立游戏"
+      ]
+    },
+    {
+      "emoji": "📖",
+      "title": "家里沉浸式读完一本书",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "阅读",
+        "宅家"
+      ]
+    },
+    {
+      "emoji": "🎙️",
+      "title": "一个人去KTV唱一下午",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "KTV",
+        "唱歌"
+      ]
+    },
+    {
+      "emoji": "🧩",
+      "title": "拼一副1000片拼图",
+      "category": "休闲",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "拼图",
+        "解压"
+      ]
+    },
+    {
+      "emoji": "📺",
+      "title": "刷完一部高分纪录片",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "纪录片",
+        "观影"
+      ]
+    },
+    {
+      "emoji": "✍️",
+      "title": "写一篇复盘周记",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "写作",
+        "复盘"
+      ]
+    },
+    {
+      "emoji": "🧘",
+      "title": "在家做一节冥想练习",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "冥想",
+        "正念"
+      ]
+    },
+    {
+      "emoji": "🌌",
+      "title": "躺在沙发上看天花板发呆",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "发呆",
+        "放空"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "用AI工具生成一组创意图",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "AI",
+        "创作"
+      ]
+    },
+    {
+      "emoji": "🍹",
+      "title": "自己调一杯鸡尾酒",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "调酒",
+        "鸡尾酒"
+      ]
+    },
+    {
+      "emoji": "🎵",
+      "title": "整理一份天津主题歌单",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "歌单",
+        "天津"
+      ]
+    },
+    {
+      "emoji": "🏰",
+      "title": "泰达航母主题公园",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "航母",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🎢",
+      "title": "天津方特欢乐世界",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "游乐园",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "蓟县独乐寺看千年古刹",
+      "category": "出游",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "古刹",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "北京故宫一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "北京",
+        "故宫"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "北京颐和园一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "北京",
+        "颐和园"
+      ]
+    },
+    {
+      "emoji": "🛖",
+      "title": "杨柳青古镇+石家大院",
+      "category": "出游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "古镇",
+        "杨柳青"
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "title": "北戴河看海一日",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "北戴河",
+        "海滩"
+      ]
+    },
+    {
+      "emoji": "🏕️",
+      "title": "蓟县郭家沟农家院一日",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "农家院",
+        "蓟县"
+      ]
+    },
+    {
+      "emoji": "🌉",
+      "title": "塘沽外滩看海鸥",
+      "category": "出游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "海鸥",
+        "塘沽"
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "title": "北京南锣鼓巷逛胡同",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "北京",
+        "胡同"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "国家博物馆一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "北京",
+        "国博"
+      ]
+    },
+    {
+      "emoji": "🦕",
+      "title": "滨海新区极地海洋世界",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "海洋世界",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🏖️",
+      "title": "东疆湾人工沙滩晒太阳",
+      "category": "出游",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "沙滩",
+        "滨海"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "承德避暑山庄一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "承德",
+        "避暑山庄"
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "title": "野三坡百里峡徒步",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "野三坡",
+        "峡谷"
+      ]
+    },
+    {
+      "emoji": "🏸",
+      "title": "预约羽毛球馆打一小时",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "羽毛球",
+        "球类"
+      ]
+    },
+    {
+      "emoji": "🧗",
+      "title": "室内攀岩馆挑战新线路",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "攀岩",
+        "室内"
+      ]
+    },
+    {
+      "emoji": "🏊",
+      "title": "游泳馆游20个来回",
+      "category": "运动",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "游泳",
+        "健身"
+      ]
+    },
+    {
+      "emoji": "🤸",
+      "title": "上一节高温瑜伽课",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "瑜伽",
+        "高温"
+      ]
+    },
+    {
+      "emoji": "🥊",
+      "title": "拳击馆打沙袋释放压力",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "拳击",
+        "解压"
+      ]
+    },
+    {
+      "emoji": "🏓",
+      "title": "去公园打乒乓球",
+      "category": "运动",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "乒乓球",
+        "公园"
+      ]
+    },
+    {
+      "emoji": "🛼",
+      "title": "室内溜冰场滑冰",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "滑冰",
+        "溜冰"
+      ]
+    },
+    {
+      "emoji": "🎯",
+      "title": "射箭馆体验反曲弓",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "射箭",
+        "体验"
+      ]
+    },
+    {
+      "emoji": "⛹️",
+      "title": "街头篮球场投一下午篮",
+      "category": "运动",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "篮球",
+        "街头"
+      ]
+    },
+    {
+      "emoji": "🚣",
+      "title": "海河皮划艇体验",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "皮划艇",
+        "海河"
+      ]
+    }
+  ]
+}

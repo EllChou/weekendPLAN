@@ -10,6 +10,7 @@ import Particles, { type ParticlesHandle } from './components/Particles/Particle
 import HistoryList from './components/History/History';
 import Toast, { type ToastHandle } from './components/Toast/Toast';
 import type { Activity } from './types';
+import { CITIES } from './types';
 import styles from './App.module.css';
 
 function hasVisitedBefore(): boolean {
@@ -77,7 +78,7 @@ function MainView() {
   return (
     <div className={styles.app}>
       <h1 className={styles.title}>🎯 周末活动清单</h1>
-      <p className={styles.subtitle}>SHENZHEN EDITION</p>
+      <p className={styles.subtitle}>{CITIES[city]?.name.toUpperCase()} EDITION</p>
       <CitySwitcher />
       <Particles particlesRef={particlesRef} />
       <Card
