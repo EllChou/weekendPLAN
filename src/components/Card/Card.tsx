@@ -65,7 +65,10 @@ const Card = forwardRef<CardHandle, Props>(function Card(
       const midAngle = currentAngle + 90;
 
       let switched = false;
-      const randomAct = activities[Math.floor(Math.random() * activities.length)];
+      // Last 1 flips: show target (not random) so the user doesn't see
+      // the card "change its mind" during the slow-down phase
+      const isFinalFlips = i >= FLIP_COUNT - 1;
+      const act = isFinalFlips ? target : activities[Math.floor(Math.random() * activities.length)];
 
       await animate(rotateY, targetAngle, {
         duration,
@@ -75,9 +78,9 @@ const Card = forwardRef<CardHandle, Props>(function Card(
             switched = true;
             // Content goes on the face that WILL be visible
             if (showingFrontAtAngle(currentAngle)) {
-              setBackActivity(randomAct);
+              setBackActivity(act);
             } else {
-              setFrontActivity(randomAct);
+              setFrontActivity(act);
             }
           }
         },
@@ -95,13 +98,6 @@ const Card = forwardRef<CardHandle, Props>(function Card(
     const snapAngle = Math.round(currentAngle / 360) * 360;
     setGlossActive(false);
     setFrontActivity(target);
-
-    await animate(rotateY, snapAngle, {
-      type: 'spring',
-      stiffness: 180,
-      damping: 20,
-      mass: 0.9,
-    });
 
     // Ensure exact snap
     rotateY.set(snapAngle);
