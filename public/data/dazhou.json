@@ -1,0 +1,1327 @@
+{
+  "city": "dazhou",
+  "updated": "2025-06-21",
+  "curator": "AI-curated from web research",
+  "activities": [
+    {
+      "emoji": "⛰️",
+      "title": "凤凰山登顶俯瞰达州城",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "凤凰山",
+        "城市全景"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "巴山大峡谷一日探秘",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "大峡谷",
+        "宣汉"
+      ]
+    },
+    {
+      "emoji": "🌄",
+      "title": "八台山看日出云海",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "八台山",
+        "日出"
+      ]
+    },
+    {
+      "emoji": "🌊",
+      "title": "莲花湖湿地公园环湖徒步",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "莲花湖",
+        "徒步"
+      ]
+    },
+    {
+      "emoji": "🎋",
+      "title": "五峰山竹海森林徒步",
+      "category": "户外",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "竹海",
+        "大竹"
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "title": "莲花湖畔晨跑",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "跑步",
+        "莲花湖"
+      ]
+    },
+    {
+      "emoji": "🧗",
+      "title": "賨人谷探古賨人遗迹",
+      "category": "户外",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "賨人谷",
+        "渠县"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "真佛山登山礼佛",
+      "category": "户外",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "真佛山",
+        "佛教"
+      ]
+    },
+    {
+      "emoji": "🌲",
+      "title": "花萼山自然保护区徒步",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "花萼山",
+        "自然保护"
+      ]
+    },
+    {
+      "emoji": "🌿",
+      "title": "梨树坪湿地公园散步",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "湿地",
+        "散步"
+      ]
+    },
+    {
+      "emoji": "🚴",
+      "title": "塔石路骑行上凤凰山",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "骑行",
+        "凤凰山"
+      ]
+    },
+    {
+      "emoji": "🏕️",
+      "title": "巴山大峡谷露营看星空",
+      "category": "户外",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "露营",
+        "大峡谷"
+      ]
+    },
+    {
+      "emoji": "🧘",
+      "title": "莲花湖大草坪瑜伽",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "瑜伽",
+        "莲花湖"
+      ]
+    },
+    {
+      "emoji": "🌸",
+      "title": "凤凰山赏桂花",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "赏花",
+        "凤凰山"
+      ]
+    },
+    {
+      "emoji": "🛤️",
+      "title": "龙潭河风景区沿河徒步",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "龙潭河",
+        "徒步"
+      ]
+    },
+    {
+      "emoji": "🎣",
+      "title": "莲花湖垂钓",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "钓鱼",
+        "莲花湖"
+      ]
+    },
+    {
+      "emoji": "🛹",
+      "title": "人民广场滑板",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "滑板",
+        "广场"
+      ]
+    },
+    {
+      "emoji": "🏔️",
+      "title": "渠县卷硐山徒步",
+      "category": "户外",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "卷硐山",
+        "渠县"
+      ]
+    },
+    {
+      "emoji": "🥩",
+      "title": "买正宗灯影牛肉当零食",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "灯影牛肉",
+        "特产"
+      ]
+    },
+    {
+      "emoji": "🍗",
+      "title": "七星椒卤菜配啤酒",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "七星椒",
+        "卤菜"
+      ]
+    },
+    {
+      "emoji": "🥟",
+      "title": "马蹄街吃大王包子",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "包子",
+        "老字号"
+      ]
+    },
+    {
+      "emoji": "🍢",
+      "title": "三圣宫美食街从头吃到尾",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "美食街",
+        "三圣宫"
+      ]
+    },
+    {
+      "emoji": "🌶️",
+      "title": "宣汉吃童记麻辣鸡块",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "麻辣鸡",
+        "宣汉"
+      ]
+    },
+    {
+      "emoji": "🍜",
+      "title": "吃一碗地道洋烈水粉",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "水粉",
+        "小吃"
+      ]
+    },
+    {
+      "emoji": "🫕",
+      "title": "一个人吃达州土灶火锅",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "火锅",
+        "土灶"
+      ]
+    },
+    {
+      "emoji": "🧆",
+      "title": "宣汉买土坎豆腐干",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "豆腐干",
+        "宣汉"
+      ]
+    },
+    {
+      "emoji": "☕",
+      "title": "西外新区独立咖啡馆探店",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "咖啡馆",
+        "西外"
+      ]
+    },
+    {
+      "emoji": "🍲",
+      "title": "吃一顿达州酸辣鸡",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "酸辣鸡",
+        "本地"
+      ]
+    },
+    {
+      "emoji": "🥟",
+      "title": "街边吃一碗达州凉粉",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "凉粉",
+        "小吃"
+      ]
+    },
+    {
+      "emoji": "🍵",
+      "title": "凤凰山农家乐喝茶吃饭",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "农家乐",
+        "凤凰山"
+      ]
+    },
+    {
+      "emoji": "🍖",
+      "title": "买一只达州板鸭独享",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "板鸭",
+        "特产"
+      ]
+    },
+    {
+      "emoji": "🍰",
+      "title": "南外阳光耍都美食广场",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "美食广场",
+        "南外"
+      ]
+    },
+    {
+      "emoji": "🥘",
+      "title": "一个人吃达州汤锅",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "汤锅",
+        "一人食"
+      ]
+    },
+    {
+      "emoji": "🧋",
+      "title": "中心广场商圈奶茶探店",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "奶茶",
+        "商圈"
+      ]
+    },
+    {
+      "emoji": "🍺",
+      "title": "南外酒吧街独饮",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "酒吧",
+        "南外"
+      ]
+    },
+    {
+      "emoji": "🍚",
+      "title": "吃一顿达州家常土菜馆",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "土菜馆",
+        "家常"
+      ]
+    },
+    {
+      "emoji": "🍜",
+      "title": "渠县咂酒配卤味",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "咂酒",
+        "渠县"
+      ]
+    },
+    {
+      "emoji": "🫓",
+      "title": "吃一块达州锅盔",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "锅盔",
+        "街头"
+      ]
+    },
+    {
+      "emoji": "🧊",
+      "title": "夏天吃一碗达州冰粉",
+      "category": "美食",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "冰粉",
+        "消暑"
+      ]
+    },
+    {
+      "emoji": "🍳",
+      "title": "学做灯影牛肉",
+      "category": "美食",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "烹饪",
+        "灯影牛肉"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "达州博物馆看巴文化展",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "博物馆",
+        "巴文化"
+      ]
+    },
+    {
+      "emoji": "🦕",
+      "title": "达州博物馆看恐龙化石展",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "恐龙",
+        "博物馆"
+      ]
+    },
+    {
+      "emoji": "📜",
+      "title": "渠县汉阙看千年汉代石刻",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "汉阙",
+        "渠县"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "渠县文庙看儒家古迹",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "文庙",
+        "渠县"
+      ]
+    },
+    {
+      "emoji": "🗿",
+      "title": "罗家坝遗址探巴人文明",
+      "category": "文艺",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "遗址",
+        "巴人"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "达州美术馆看本地画展",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "美术馆",
+        "画展"
+      ]
+    },
+    {
+      "emoji": "📚",
+      "title": "达州图书馆看书自习",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "图书馆",
+        "自习"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "一个人看早场电影",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "电影",
+        "早场"
+      ]
+    },
+    {
+      "emoji": "📖",
+      "title": "新华文轩书店泡一个下午",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "书店",
+        "阅读"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "城坝遗址看賨人故城",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "遗址",
+        "賨人"
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "达州大剧院看一场演出",
+      "category": "文艺",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "演出",
+        "大剧院"
+      ]
+    },
+    {
+      "emoji": "🖼️",
+      "title": "元稹纪念馆感受唐诗",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "纪念馆",
+        "元稹"
+      ]
+    },
+    {
+      "emoji": "🏺",
+      "title": "达州非遗陈列馆看巴文化",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "非遗",
+        "陈列馆"
+      ]
+    },
+    {
+      "emoji": "🎹",
+      "title": "四川文理学院听学生音乐会",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "音乐会",
+        "学院"
+      ]
+    },
+    {
+      "emoji": "📝",
+      "title": "莲花湖畔长椅看书",
+      "category": "文艺",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "阅读",
+        "湖畔"
+      ]
+    },
+    {
+      "emoji": "💻",
+      "title": "达州图书馆角落写代码",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "编程",
+        "图书馆"
+      ]
+    },
+    {
+      "emoji": "📈",
+      "title": "研究一个量化交易策略",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "量化",
+        "策略"
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "title": "B站刷完一套AI课程",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "AI",
+        "网课"
+      ]
+    },
+    {
+      "emoji": "📚",
+      "title": "达州图书馆自习一天",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "图书馆",
+        "自习"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "学Figma做一套UI练习",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "设计",
+        "Figma"
+      ]
+    },
+    {
+      "emoji": "🌐",
+      "title": "搭一个个人博客网站",
+      "category": "学习",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "博客",
+        "建站"
+      ]
+    },
+    {
+      "emoji": "📝",
+      "title": "系统整理读书笔记",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "笔记",
+        "整理"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "学用DaVinci剪视频",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "剪辑",
+        "视频"
+      ]
+    },
+    {
+      "emoji": "📊",
+      "title": "做一个个人财务仪表盘",
+      "category": "学习",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "财务",
+        "数据"
+      ]
+    },
+    {
+      "emoji": "🔧",
+      "title": "动手组装一个机械键盘",
+      "category": "学习",
+      "budget": "200元+",
+      "duration": "半天",
+      "tags": [
+        "键盘",
+        "DIY"
+      ]
+    },
+    {
+      "emoji": "🏺",
+      "title": "陶艺工坊做一只杯子",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "陶艺",
+        "手工"
+      ]
+    },
+    {
+      "emoji": "🕯",
+      "title": "DIY香薰蜡烛",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "蜡烛",
+        "香薰"
+      ]
+    },
+    {
+      "emoji": "🖼️",
+      "title": "数字油画填色解压",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "油画",
+        "解压"
+      ]
+    },
+    {
+      "emoji": "🪴",
+      "title": "微景观苔藓瓶制作",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "微景观",
+        "苔藓"
+      ]
+    },
+    {
+      "emoji": "📿",
+      "title": "串珠手链DIY",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "串珠",
+        "手链"
+      ]
+    },
+    {
+      "emoji": "🪵",
+      "title": "木工坊做一把木梳",
+      "category": "手工",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "木工",
+        "手作"
+      ]
+    },
+    {
+      "emoji": "🎭",
+      "title": "石膏娃娃涂色解压",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "石膏",
+        "涂色"
+      ]
+    },
+    {
+      "emoji": "🧵",
+      "title": "渠县竹编体验编一个小篮",
+      "category": "手工",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "竹编",
+        "非遗"
+      ]
+    },
+    {
+      "emoji": "🚶",
+      "title": "中心广场商圈逛街",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "商圈",
+        "逛街"
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "title": "凤凰楼上俯瞰达州全景",
+      "category": "漫游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "凤凰楼",
+        "全景"
+      ]
+    },
+    {
+      "emoji": "🌉",
+      "title": "州河滨河路沿河散步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "滨河路",
+        "州河"
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "title": "达州老街老巷City Walk",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "老城",
+        "CityWalk"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "西外新区看新达州风貌",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "西外",
+        "新区"
+      ]
+    },
+    {
+      "emoji": "🏮",
+      "title": "三圣宫夜市逛吃",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "夜市",
+        "三圣宫"
+      ]
+    },
+    {
+      "emoji": "🏫",
+      "title": "四川文理学院校园散步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "大学",
+        "校园"
+      ]
+    },
+    {
+      "emoji": "🛍️",
+      "title": "朝阳路商业街逛店",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "商业街",
+        "购物"
+      ]
+    },
+    {
+      "emoji": "🚇",
+      "title": "随机坐公交到没去过的地方",
+      "category": "漫游",
+      "budget": "0-50元",
+      "duration": "半天",
+      "tags": [
+        "公交",
+        "探索"
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "title": "大寨子公园林间漫步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "公园",
+        "林间"
+      ]
+    },
+    {
+      "emoji": "🐦",
+      "title": "莲花湖湿地公园喂鱼观鸟",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "观鸟",
+        "莲花湖"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "红军亭看红色记忆",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "红军亭",
+        "红色"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "塔沱湿地公园晒太阳",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "湿地",
+        "晒太阳"
+      ]
+    },
+    {
+      "emoji": "🌅",
+      "title": "凤凰山看日落城市剪影",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "日落",
+        "凤凰山"
+      ]
+    },
+    {
+      "emoji": "🏡",
+      "title": "宣汉洋烈水乡漫步",
+      "category": "漫游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "水乡",
+        "宣汉"
+      ]
+    },
+    {
+      "emoji": "🎬",
+      "title": "一个人包场看IMAX",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "电影",
+        "IMAX"
+      ]
+    },
+    {
+      "emoji": "💆",
+      "title": "预约一次本地推拿按摩",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "推拿",
+        "放松"
+      ]
+    },
+    {
+      "emoji": "🎮",
+      "title": "通关一个独立游戏",
+      "category": "休闲",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "游戏",
+        "独立游戏"
+      ]
+    },
+    {
+      "emoji": "📖",
+      "title": "家里沉浸式读完一本书",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "全天",
+      "tags": [
+        "阅读",
+        "宅家"
+      ]
+    },
+    {
+      "emoji": "🎙️",
+      "title": "一个人去KTV唱一下午",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "半天",
+      "tags": [
+        "KTV",
+        "唱歌"
+      ]
+    },
+    {
+      "emoji": "🧩",
+      "title": "拼一副1000片拼图",
+      "category": "休闲",
+      "budget": "0-50元",
+      "duration": "全天",
+      "tags": [
+        "拼图",
+        "解压"
+      ]
+    },
+    {
+      "emoji": "📺",
+      "title": "刷完一部高分纪录片",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "纪录片",
+        "观影"
+      ]
+    },
+    {
+      "emoji": "✍️",
+      "title": "写一篇复盘周记",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "写作",
+        "复盘"
+      ]
+    },
+    {
+      "emoji": "🧘",
+      "title": "在家做一节冥想练习",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "冥想",
+        "正念"
+      ]
+    },
+    {
+      "emoji": "🌌",
+      "title": "躺在沙发上看天花板发呆",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "发呆",
+        "放空"
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": "用AI工具生成一组创意图",
+      "category": "休闲",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "AI",
+        "创作"
+      ]
+    },
+    {
+      "emoji": "🍹",
+      "title": "自己调一杯鸡尾酒",
+      "category": "休闲",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "调酒",
+        "鸡尾酒"
+      ]
+    },
+    {
+      "emoji": "🏙️",
+      "title": "重庆主城一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "重庆",
+        "高铁"
+      ]
+    },
+    {
+      "emoji": "🌶️",
+      "title": "成都宽窄巷子一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "成都",
+        "高铁"
+      ]
+    },
+    {
+      "emoji": "🏯",
+      "title": "阆中古城一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "阆中",
+        "古城"
+      ]
+    },
+    {
+      "emoji": "⛰️",
+      "title": "万源八台山看雪景",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "八台山",
+        "雪景"
+      ]
+    },
+    {
+      "emoji": "🏘️",
+      "title": "渠县賨人谷+汉阙一日",
+      "category": "出游",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "渠县",
+        "汉阙"
+      ]
+    },
+    {
+      "emoji": "🏞️",
+      "title": "宣汉巴山大峡谷桃溪谷",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "巴山大峡谷",
+        "桃溪谷"
+      ]
+    },
+    {
+      "emoji": "🏕️",
+      "title": "万源龙潭河漂流",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "漂流",
+        "万源"
+      ]
+    },
+    {
+      "emoji": "🕌",
+      "title": "大竹净土寺静心",
+      "category": "出游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "寺庙",
+        "大竹"
+      ]
+    },
+    {
+      "emoji": "🌳",
+      "title": "开江金山寺看古刹",
+      "category": "出游",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "金山寺",
+        "开江"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "title": "广安邓小平故里一日游",
+      "category": "出游",
+      "budget": "200元+",
+      "duration": "全天",
+      "tags": [
+        "广安",
+        "邓小平"
+      ]
+    },
+    {
+      "emoji": "🚂",
+      "title": "坐绿皮火车去万源看山",
+      "category": "出游",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "绿皮火车",
+        "万源"
+      ]
+    },
+    {
+      "emoji": "🥘",
+      "title": "宣汉洋烈水乡吃鱼一日",
+      "category": "出游",
+      "budget": "50-200元",
+      "duration": "全天",
+      "tags": [
+        "洋烈",
+        "吃鱼"
+      ]
+    },
+    {
+      "emoji": "🏸",
+      "title": "预约羽毛球馆打一小时",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "羽毛球",
+        "球类"
+      ]
+    },
+    {
+      "emoji": "🏊",
+      "title": "游泳馆游20个来回",
+      "category": "运动",
+      "budget": "0-50元",
+      "duration": "1-2小时",
+      "tags": [
+        "游泳",
+        "健身"
+      ]
+    },
+    {
+      "emoji": "🏓",
+      "title": "去凤凰山公园打乒乓球",
+      "category": "运动",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "乒乓球",
+        "公园"
+      ]
+    },
+    {
+      "emoji": "🎯",
+      "title": "射箭馆体验反曲弓",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "射箭",
+        "体验"
+      ]
+    },
+    {
+      "emoji": "⛹️",
+      "title": "街头篮球场投一下午篮",
+      "category": "运动",
+      "budget": "免费",
+      "duration": "半天",
+      "tags": [
+        "篮球",
+        "街头"
+      ]
+    },
+    {
+      "emoji": "🏃",
+      "title": "凤凰山盘山公路夜跑",
+      "category": "运动",
+      "budget": "免费",
+      "duration": "1-2小时",
+      "tags": [
+        "夜跑",
+        "凤凰山"
+      ]
+    },
+    {
+      "emoji": "🤸",
+      "title": "上一节高温瑜伽课",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "瑜伽",
+        "高温"
+      ]
+    },
+    {
+      "emoji": "🥊",
+      "title": "拳击馆打沙袋释放压力",
+      "category": "运动",
+      "budget": "50-200元",
+      "duration": "1-2小时",
+      "tags": [
+        "拳击",
+        "解压"
+      ]
+    }
+  ]
+}

@@ -72,4 +72,15 @@ export const CITY_REGISTRY: Record<string, CityRegistration> = {
       { emoji: '🌉', title: '海河夜游看夜景', category: '漫游', budget: '免费', duration: '1-2小时', tags: ['夜景'] },
     ],
   },
+  dazhou: {
+    emoji: '🏞️',
+    name: '达州',
+    fallback: [
+      { emoji: '⛰️', title: '凤凰山俯瞰达州', category: '户外', budget: '免费', duration: '半天', tags: ['凤凰山'] },
+      { emoji: '🥩', title: '灯影牛肉', category: '美食', budget: '0-50元', duration: '1-2小时', tags: ['灯影牛肉'] },
+      { emoji: '🏛️', title: '达州博物馆看巴文化', category: '文艺', budget: '免费', duration: '半天', tags: ['巴文化'] },
+      { emoji: '🏞️', title: '莲花湖湿地公园', category: '户外', budget: '免费', duration: '半天', tags: ['莲花湖'] },
+      { emoji: '🏙️', title: '凤凰楼看全景', category: '漫游', budget: '0-50元', duration: '半天', tags: ['全景'] },
+    ],
+  },
 };
